@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="TestASumar" project="sumador" tests="1" started="1" failures="0" errors="0" ignored="0">
+  <testsuite name="sumador.TestASumar" time="0.016" displayname="TestASumar" uniqueid="[engine:junit-jupiter]/[class:sumador.TestASumar]">
+    <testcase name="test" classname="sumador.TestASumar" time="0.016" displayname="test()" uniqueid="[engine:junit-jupiter]/[class:sumador.TestASumar]/[method:test()]"/>
+  </testsuite>
+</testrun>

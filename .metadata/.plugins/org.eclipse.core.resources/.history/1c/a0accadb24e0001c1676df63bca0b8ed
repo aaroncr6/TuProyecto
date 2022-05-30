@@ -1,0 +1,17 @@
+package sumador;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.Test;
+
+class TestASumar {
+	
+
+	@Test
+	void test() {
+		ASumar sumaruno = new ASumar();
+		String solucion = sumaruno.sumaruno("7");
+		assertEquals(7, solucion);
+	}
+
+}
