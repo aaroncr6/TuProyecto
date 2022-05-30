@@ -8,6 +8,7 @@ public class ASumar {
 			for(int i = 0; i < numero.length() ; i++) {
 				char solucion = numero.charAt(i);
 				sumar = sumar + Character.getNumericValue(solucion);
+				System.out.println(solucion);
 			}			
 		}else {
 			return "Negativo. Siempre negativo";
